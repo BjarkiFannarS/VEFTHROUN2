@@ -1,0 +1,89 @@
+.middle h1{
+    border-radius:50%;
+    border:1px solid;
+    width: fit-content;
+    padding:5px;
+    margin: 0 auto;
+
+    
+}
+
+.padding1{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.midja{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.middle{
+    text-align: center;
+}
+
+.border{
+    border-style: solid;
+}
+
+#mynd1{
+    background-image: url(/22V-s2-main/Verkefni2.2/images/values-bg.jpg);
+    margin-top: 0px;
+    padding-top: 2%;
+}
+
+.mynd1{
+    background-image: url(/images/values-bg.jpg);
+    margin-top: 0px;
+    padding-top: 2%;
+}
+
+.fela{
+    display:none;
+}
+
+.rotate{
+    transform: rotate(4deg);
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 100px;
+  }
+
+.backroundcol{
+    background-color:cornflowerblue;
+}
+
+footer > div > ul {
+    padding-left: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 4%;
+}
+
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    table-layout: fixed;
+    width: 100%;
+  }
+  
+  table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+  
+  table th,
+  table td {
+    padding: .625em;
+    text-align: center;
+  }
